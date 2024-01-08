@@ -1,0 +1,17 @@
+
+configuration {
+	modi: "window,drun,ssh,combi";
+	font: "JetBrainsMono Nerd Font 24";
+	combi-modi: "window,drun,ssh";
+	width: 9000;
+	height: 700;
+	lines: 20;
+	terminal: 'kitty';
+	show-icons: true;
+	icon-them: 'Papirus';
+}
+//@theme "/usr/share/rofi/themes/dmenu.rasi"
+
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+@theme "/home/ggghost/.local/share/rofi/themes/squared-nord.rasi"
